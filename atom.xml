@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>wangBlog</title>
+  
+  <subtitle>wangBlog</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://besion11.github.io/"/>
+  <updated>2020-07-10T05:07:57.137Z</updated>
+  <id>https://besion11.github.io/</id>
+  
+  <author>
+    <name>BeSion</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>时间如此宝贵</title>
+    <link href="https://besion11.github.io/2020/07/10/shi-jian-ru-ci-bao-gui/"/>
+    <id>https://besion11.github.io/2020/07/10/shi-jian-ru-ci-bao-gui/</id>
+    <published>2020-07-10T03:55:56.000Z</published>
+    <updated>2020-07-10T05:07:57.137Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;时间如此宝贵&quot;&gt;&lt;a href=&quot;#时间如此宝贵&quot; class=&quot;headerlink&quot; title=&quot;时间如此宝贵&quot;&gt;&lt;/a&gt;时间如此宝贵&lt;/h2&gt;
+      
+    
+    </summary>
+    
+    
+      <category term="生活" scheme="https://besion11.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="time" scheme="https://besion11.github.io/tags/time/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://besion11.github.io/2020/07/09/hello-world/"/>
+    <id>https://besion11.github.io/2020/07/09/hello-world/</id>
+    <published>2020-07-09T10:21:58.572Z</published>
+    <updated>2020-07-09T10:21:58.572Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
