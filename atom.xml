@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://besion11.github.io/"/>
-  <updated>2020-07-12T08:49:19.621Z</updated>
+  <updated>2020-07-16T04:01:42.659Z</updated>
   <id>https://besion11.github.io/</id>
   
   <author>
@@ -15,6 +15,21 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ssm框架整合</title>
+    <link href="https://besion11.github.io/posts/12e0.html"/>
+    <id>https://besion11.github.io/posts/12e0.html</id>
+    <published>2020-07-16T04:00:41.000Z</published>
+    <updated>2020-07-16T04:01:42.659Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>java自学之路</title>
