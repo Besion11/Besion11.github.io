@@ -4,31 +4,6 @@
   
     
     <entry>
-      <title>时间如此宝贵</title>
-      <link href="/posts/undefined.html"/>
-      <url>/posts/undefined.html</url>
-      
-        <content type="html"><![CDATA[<h2 id="时间如此宝贵"><a href="#时间如此宝贵" class="headerlink" title="时间如此宝贵"></a>时间如此宝贵</h2>]]></content>
-      
-      
-      <categories>
-          
-          <category> 生活 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> time </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>java自学之路</title>
       <link href="/posts/19e0.html"/>
       <url>/posts/19e0.html</url>
@@ -48,6 +23,31 @@
             <tag> Java </tag>
             
             <tag> 学习 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>时间如此宝贵</title>
+      <link href="/posts/eee.html"/>
+      <url>/posts/eee.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="时间如此宝贵"><a href="#时间如此宝贵" class="headerlink" title="时间如此宝贵"></a>时间如此宝贵</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 生活 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> time </tag>
             
         </tags>
       
