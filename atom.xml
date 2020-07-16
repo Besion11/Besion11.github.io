@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://besion11.github.io/"/>
-  <updated>2020-07-16T04:01:42.659Z</updated>
+  <updated>2020-07-16T05:07:33.599Z</updated>
   <id>https://besion11.github.io/</id>
   
   <author>
@@ -21,28 +21,13 @@
     <link href="https://besion11.github.io/posts/12e0.html"/>
     <id>https://besion11.github.io/posts/12e0.html</id>
     <published>2020-07-16T04:00:41.000Z</published>
-    <updated>2020-07-16T04:01:42.659Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>java自学之路</title>
-    <link href="https://besion11.github.io/posts/19e0.html"/>
-    <id>https://besion11.github.io/posts/19e0.html</id>
-    <published>2020-07-10T03:55:56.000Z</published>
-    <updated>2020-07-12T08:49:19.621Z</updated>
+    <updated>2020-07-16T05:07:33.599Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;Java自学之路&quot;&gt;&lt;a href=&quot;#Java自学之路&quot; class=&quot;headerlink&quot; title=&quot;Java自学之路&quot;&gt;&lt;/a&gt;Java自学之路&lt;/h1&gt;&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; titl
+        &lt;h1 id=&quot;ssm框架整合&quot;&gt;&lt;a href=&quot;#ssm框架整合&quot; class=&quot;headerlink&quot; title=&quot;ssm框架整合&quot;&gt;&lt;/a&gt;ssm框架整合&lt;/h1&gt;&lt;h3 id=&quot;pom-xml依赖导入&quot;&gt;&lt;a href=&quot;#pom-xml依赖导入&quot; class=&quot;he
       
     
     </summary>
@@ -51,9 +36,13 @@
       <category term="学习" scheme="https://besion11.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-      <category term="Java" scheme="https://besion11.github.io/tags/Java/"/>
+      <category term="java" scheme="https://besion11.github.io/tags/java/"/>
     
-      <category term="学习" scheme="https://besion11.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
+      <category term="mybatis" scheme="https://besion11.github.io/tags/mybatis/"/>
+    
+      <category term="spring" scheme="https://besion11.github.io/tags/spring/"/>
+    
+      <category term="springmvc" scheme="https://besion11.github.io/tags/springmvc/"/>
     
   </entry>
   
